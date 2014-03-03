@@ -1,0 +1,123 @@
+﻿<EditorStyle name="Darcula" _description="based on JetBrains IDE themes">
+  <Style name="text" color="#A9B7C6" bgColor="#2B2B2B" />
+  <Style name="text.selection" color="#B1C4D8" bgColor="#414141" />
+  <Style name="text.selection.inactive" color="#000000" bgColor="#2d5893" />
+  <Style name="text.background.readonly" color="#425F44" />
+  <Style name="text.background.searchresult" color="#537057" />
+  <Style name="text.background.searchresult-main" color="#2d5893" />
+  <Style name="text.link" color="#287BDE" />
+  <Style name="marker.line" color="#111111" />
+  <Style name="marker.line.changed" color="#73D216" />
+  <Style name="marker.line.dirty" color="#EDD400" />
+  <Style name="marker.template.primary_template" color="#E9B96E" bgColor="#8F5902" />
+  <Style name="marker.template.primary_highlighted_template" color="#E9B96E" bgColor="#C17D11" />
+  <Style name="marker.template.secondary_template" color="#FFFFFF" bgColor="#2E3436" />
+  <Style name="marker.template.secondary_highlighted_template" color="#EEEEEC" bgColor="#555753" />
+  <Style name="marker.ruler" color="#555753" />
+  <Style name="marker.bracket" color="#E8BF6A" bgColor="#555753" />
+  <Style name="marker.usages" color="#769AA5" bgColor="#555753" />
+  <Style name="marker.bookmark.color1" color="#EEEEEC" />
+  <Style name="marker.bookmark.color2" color="#888A85" />
+  <Style name="diff.line-added" color="#EDD400" />
+  <Style name="diff.line-removed" color="#729FCF" />
+  <Style name="diff.line-changed" color="#AD7FA8" />
+  <Style name="diff.header" color="#8AE232" weight="Bold" />
+  <Style name="diff.header-seperator" color="#888A85" />
+  <Style name="diff.header-oldfile" color="#8AE232" weight="Bold" />
+  <Style name="diff.header-newfile" color="#8AE234" weight="Bold" />
+  <Style name="diff.location" color="#8AE232" />
+  <Style name="bubble.warning" color="#BABDB6" bgColor="#444400" />
+  <Style name="bubble.error" color="#BABDB6" bgColor="#440000" />
+  <Style name="linenumber" color="#888888" bgColor="#111111" />
+  <Style name="iconbar" color="#111111" />
+  <Style name="iconbar.separator" color="#2E3436" />
+  <Style name="fold" color="#BABDB6" bgColor="#000000" />
+  <Style name="fold.margin" color="#FFFFFF" bgColor="#111111" />
+  <Style name="comment" color="#808080" />
+  <Style name="comment.keyword.todo" color="#BC9458" weight="Bold" />
+  <Style name="comment.keyword" color="#888A85" weight="Bold" />
+  <Style name="comment.tag" color="#8A653B" />
+  <Style name="text.punctuation" color="#EDD400" />
+  <Style name="text.preprocessor" color="#BBB528" weight="Italic" />
+  <Style name="text.preprocessor.keyword" color="#BBB528" weight="Bold" />
+  <Style name="xml" color="#D2D7CD" />
+  <Style name="xml.tag" color="#E8BF6A" />
+  <Style name="xml.name" color="#CC7832" />
+  <Style name="xml.attribute" color="#BABABA" />
+  <Style name="xml.cdata" color="#A5C261" />
+  <Style name="tooltip" color="#9D9D9F" bgColor="#4C5051" />
+  <Style name="tooltip.border" color="#4C5051" />
+  <Style name="tooltip.pager.text" color="#D3D7CF" />
+  <Style name="tooltip.pager.top" color="#555753" />
+  <Style name="tooltip.pager.bottom" color="#555753" />
+  <Style name="tooltip.pager.triangle" color="#D3D7CF" />
+  <Style name="completion" color="#434343" bgColor="#F0F6F8" />
+  <Style name="completion.highlight" color="#BA3373" />
+  <Style name="completion.selection" color="#F8FCFC" bgColor="#DFF4F0" />
+  <Style name="completion.selection.border" color="#C9C9C9" />
+  <Style name="completion.selection.inactive" color="#F9F9F9" bgColor="#E6E6E6" />
+  <Style name="completion.selection.inactive.border" color="#BEBEBE" />
+  <Style name="constant" color="#9876AA" />
+  <Style name="constant.digit" color="#6897BB" />
+  <Style name="constant.language" color="#FFC66D" />
+  <Style name="constant.language.void" color="#D48A45" />
+  <Style name="string" color="#A5C25C" />
+  <Style name="string.escape" color="#CC7832" />
+  <Style name="string.single" color="#BDD164" />
+  <Style name="string.double" color="#A5C25C" />
+  <Style name="string.other" color="#E8BF6A" />
+  <Style name="keyword.access" color="#D48A45" weight="Bold" />
+  <Style name="keyword.operator" color="#D48A45" />
+  <Style name="keyword.selection" color="#D48A45" />
+  <Style name="keyword.iteration" color="#D48A45" />
+  <Style name="keyword.jump" color="#D48A45" weight="Bold" />
+  <Style name="keyword.context" color="#FFFFFF" bgColor="#000000" weight="Bold" />
+  <Style name="keyword.exceptions" color="#E55E2D" weight="Bold" />
+  <Style name="keyword.modifier" color="#D48A45" weight="Bold" />
+  <Style name="keyword.type" color="#D48A45" />
+  <Style name="keyword.namespace" color="#D48A45" weight="Italic" />
+  <Style name="keyword.property" color="#CC7730" weight="Bold" />
+  <Style name="keyword.declaration" color="#D28A45" />
+  <Style name="keyword.parameter" color="#247877" weight="Bold" />
+  <Style name="keyword.operator.declaration" color="#D48A45" weight="Bold" />
+  <Style name="keyword.misc" color="#FFFFFF" weight="Bold" />
+  <Style name="keyword.semantic.type" color="#D28A44" />
+  <Style name="keyword.semantic.field" color="#9876AA" weight="Italic" />
+  <Style name="keyword.semantic.property" color="#A5C25C" weight="Italic" />
+  <Style name="keyword.semantic.method" color="#FFC66D" weight="Italic" />
+  <Style name="keyword.semantic.error" color="#C85550" />
+  <Style name="keyword.semantic.parameter" color="#929292" />
+  <Style name="comment.tag.line" color="#888A85" />
+  <Style name="comment.line" color="#888A85" />
+  <Style name="comment.tag.doc" color="#526D4A" />
+  <Style name="comment.doc" color="#629755" />
+  <Style name="keyword.semantic.method.declaration" color="#FFC66D" weight="Italic" />
+  <Style name="keyword.semantic.field.declaration" color="#9876AA" weight="Italic" />
+  <Style name="keyword.semantic.type.declaration" color="#D28A44" />
+  <Style name="comment.block" color="#808080" />
+  <Style name="bubble.warning.text" color="#BABDB6" bgColor="#444400" />
+  <Style name="bubble.error.text" color="#BABDB6" bgColor="#440000" />
+  <Style name="comment.tag.block" color="#8A653B" />
+  <Style name="marker.breakpoint.invalid" color="#EDDCDC" />
+  <Style name="marker.breakpoint.invalid.color1" color="#EDDCDC" />
+  <Style name="marker.breakpoint.invalid.border" color="#AB616B" />
+  <Style name="marker.breakpoint.color1" color="#FFFFFF" />
+  <Style name="marker.breakpoint.color2" color="#AB616B" />
+  <Style name="marker.breakpoint" color="#A9B7C6" bgColor="#4b2f2f" />
+  <Style name="marker.debug.currentline" color="#A9B7C6" bgColor="#3c76a8" />
+  <Style name="marker.debug.currentline.color1" color="#FFFF00" />
+  <Style name="marker.debug.currentline.color2" color="#FFFFCC" />
+  <Style name="marker.debug.stackline" color="#000000" bgColor="#2d5893" />
+  <Style name="marker.debug.stackline.color1" color="#80FF80" />
+  <Style name="marker.debug.stackline.color2" color="#CCFFCC" />
+  <Style name="marker.underline.error" color="#C85550" />
+  <Style name="marker.underline.warning" color="#EDD400" />
+  <Style name="marker.underline.suggestion" color="#73D216" />
+  <Style name="marker.underline.hint" color="#3465A4" />
+  <Style name="template" color="#000000" bgColor="#FDFAED" />
+  <Style name="template.tag" color="#000000" bgColor="#FDF0BD" />
+  <Style name="template.directive" color="#000000" bgColor="#FDFAED" />
+  <Style name="keyword.semantic.event" color="#FBE84E" />
+  <Style name="keyword" color="#009695" />
+  <Style name="keyword.semantic.event.declaration" color="#FBE84E" />
+</EditorStyle>
